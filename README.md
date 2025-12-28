@@ -10,7 +10,7 @@ The notebook includes:
 - Data preprocessing and feature engineering  
 - Exploratory data analysis (plots and correlations)  
 - Regression models: Random Forest, Gradient Boosting, Extra Trees, Linear Regression, Neural Networks (MLPRegressor)  
-- Model evaluation: MAE, MSE, R 
+- Model evaluation: MAE, MSE, R^2 
 - Variance Inflation Factor (VIF) analysis
 - Cross-validation using Yellowbrick 
 
