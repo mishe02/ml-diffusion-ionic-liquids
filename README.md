@@ -1,7 +1,7 @@
 # Machine Learning Predictions of Diffusion in Ionic Liquids
 This project applies machine learning models, including Random Forest, Gradient Boosting, Extra Trees, and Neural Networks to predict diffusion coefficients in bulk and confined ionic liquids using simple descriptors.
 
-  ## Project Description\
+  ## Project Description
 The goal is to investigate whether ML models can accurately predict diffusion behavior in ionic liquids based on a limited set of descriptors, such as density, temperature, molecular weight, and ion-specific slope parameters. The dataset used contains data for 29 ionic liquids and is stored in `Ionic1.xlsx`. 
 The analysis focuses on predicting anion diffusion coefficients and comparing the performance of different ML methods.
 
@@ -9,7 +9,7 @@ The analysis focuses on predicting anion diffusion coefficients and comparing th
 The notebook includes: 
 - Data preprocessing and feature engineering  
 - Exploratory data analysis (plots and correlations)  
-- Regression models: Random Forest, Gradient Boosting, Extra Trees, Linear Regression, Neural Networks (MLPRegressor)  \
+- Regression models: Random Forest, Gradient Boosting, Extra Trees, Linear Regression, Neural Networks (MLPRegressor)  
 - Model evaluation: MAE, MSE, R\'b2  
 - Variance Inflation Factor (VIF) analysis
 - Cross-validation using Yellowbrick 
